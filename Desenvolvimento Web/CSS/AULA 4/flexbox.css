@@ -1,0 +1,20 @@
+.item {
+    background: gray;
+    border: 4px solid black;
+    padding: 50px;
+}
+
+.item-1{
+    flex-grow: 1;
+}
+
+.item-2{
+    flex-grow: 1;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

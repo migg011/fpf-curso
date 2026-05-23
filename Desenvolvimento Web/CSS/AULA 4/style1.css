@@ -1,0 +1,16 @@
+fora_da_tela {
+    width: 200px;
+    height: 100px;
+    overflow: scroll;
+    border: medium double;
+}
+
+.display {
+    border: 2px solid black;
+}
+
+.display_mostrar {
+    display: block;
+    border: medium double black;
+    margin: 1px;
+}

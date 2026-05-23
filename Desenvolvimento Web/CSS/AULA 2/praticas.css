@@ -1,0 +1,8 @@
+.borda_atividade {
+  border: 10px solid black;
+  background-color: rgb(111, 119, 119);
+  border-radius: 30px;
+  border-bottom-left-radius: 80px;
+  border-top-right-radius: 80px;
+  padding: 25px;
+}
