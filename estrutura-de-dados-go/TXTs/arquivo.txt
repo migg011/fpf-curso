@@ -1,4 +1,0 @@
-exemplo xeeeee
-oi alou
-volta vida
-"\0"
