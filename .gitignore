@@ -1,8 +1,10 @@
-.idea/
+**/.idea/
 .vscode/
 
-__pycache__/
+**/__pycache__/
 *.pyc
 tempCoderRunnerFile.py
 
-out/
+**/out/
+.gitignore
+
