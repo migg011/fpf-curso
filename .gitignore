@@ -8,3 +8,7 @@ tempCoderRunnerFile.py
 **/out/
 .gitignore
 
+**/venv/
+venv/
+ENV/
+
