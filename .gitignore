@@ -1,4 +1,8 @@
-.idea
-tempCodeRunnerFile.py
-.venv
-__pycache__
+.idea/
+.vscode/
+
+__pycache__/
+*.pyc
+tempCoderRunnerFile.py
+
+out/
