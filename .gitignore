@@ -12,3 +12,4 @@ tempCoderRunnerFile.py
 venv/
 ENV/
 
+.gitmodules/
